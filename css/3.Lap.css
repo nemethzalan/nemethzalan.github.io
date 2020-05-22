@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+body{
+    margin: 0;
+    font-family: 'Bree Serif', serif; 
+}
+p, blockquote{
+    font-size: 1.3em;
+    line-height: 1.6em;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ .kontener, .szovegkontener {
+     text-align: center;
+     padding: 0.3em 1.2em;
+
+}
+
+ 
+  header{
+      display: flex;
+      justify-content: space-between;
+
+}
+  
+ h1 {
+    text-align: center;
+     z-index: 3;
+ }
+ h1{
+     font-size: xx-large;
+ }
+ 
+ .gyartas{
+     width: 100%;
+ }
+
+ .gyártás{
+    width: 100%;
+}
+ .marás{
+    width: 100%;
+}
+.menet{
+    width: 100%;
+}
+
+  .szovegkontener{
+      margin-top: 1.6em;
+      padding: 1em;
+  }
+ .kekkontener{
+     width: 100%;
+     background: rgb(5, 64, 78) ; 
+     color: black;
+     padding-bottom: 2em;
+ }

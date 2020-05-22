@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Bree Serif', serif; 
+}
+p, blockquote{
+    font-size: 1.3em;
+    line-height: 1.6em;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ .kontener, .szovegkontener {
+     text-align: center;
+     padding: 0.3em 1.2em;
+
+}
+
+ 
+  header{
+      display: flex;
+      justify-content: space-between;
+
+}
+  
+ h1 {
+    text-align: center;
+     z-index: 3;
+ }
+ h1{
+     font-size: xx-large;
+ }
+ 
+ .Fejléc{
+     width: 100%;
+ }
+  .myself{
+      width: 100%;
+  }
+
+  .szovegkontener{
+      margin-top: 1.6em;
+      padding: 1em;
+  }
+ .kekkontener{
+     width: 100%;
+     background: rgb(20, 124, 194) ; 
+     color: rgb(19, 14, 14);
+     padding-bottom: 2em;
+
+ }
